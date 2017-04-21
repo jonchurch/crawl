@@ -1,0 +1,8 @@
+[0421/193657.475360:WARNING:audio_manager.cc(293)] Multiple instances of AudioManager detected
+[0421/193657.475490:WARNING:audio_manager.cc(254)] Multiple instances of AudioManager detected
+[0421/193700.471973:ERROR:gl_implementation.cc(246)] Failed to load /opt/google/chrome-unstable/libosmesa.so: /opt/google/chrome-unstable/libosmesa.so: cannot open shared object file: No such file or directory
+[0421/193700.504841:ERROR:gpu_child_thread.cc(174)] Exiting GPU process due to errors during initialization
+[0421/193700.735852:ERROR:gl_implementation.cc(246)] Failed to load /opt/google/chrome-unstable/libosmesa.so: /opt/google/chrome-unstable/libosmesa.so: cannot open shared object file: No such file or directory
+[0421/193700.754879:ERROR:gpu_child_thread.cc(174)] Exiting GPU process due to errors during initialization
+[0421/193700.921205:ERROR:gl_implementation.cc(246)] Failed to load /opt/google/chrome-unstable/libosmesa.so: /opt/google/chrome-unstable/libosmesa.so: cannot open shared object file: No such file or directory
+[0421/193700.935892:ERROR:gpu_child_thread.cc(174)] Exiting GPU process due to errors during initialization
